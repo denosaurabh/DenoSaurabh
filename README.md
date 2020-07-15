@@ -1,7 +1,7 @@
-[![Twitter](https://img.shields.io/twitter/follow/Shubhamai?style=flat-square&logo=twitter)](https://twitter.com/Saurabh50798764)
-[![GitHub](https://img.shields.io/badge/GitHub-Shubhamai-lightgrey?style=flat-square&logo=github)](https://github.com/Saurabh-FullStackDev)
-[![Website](https://img.shields.io/badge/Website-Shubhamai.github.io-red?style=flat-square)](https://shubhamai.github.io/home/)
-[![Medium](https://img.shields.io/badge/Medium-Shubhamai-green?style=flat-square&logo=medium)](https://medium.com/@saurabh.fullstackdev)
+[![Twitter](https://img.shields.io/twitter/follow/Saurabh?style=flat-square&logo=twitter)](https://twitter.com/Saurabh50798764)
+[![GitHub](https://img.shields.io/badge/GitHub-Saurabh-lightgrey?style=flat-square&logo=github)](https://github.com/Saurabh-FullStackDev)
+[![Website](https://img.shields.io/badge/Website-Saurabh.github.io-red?style=flat-square)](https://shubhamai.github.io/home/)
+[![Medium](https://img.shields.io/badge/Medium-Saurabh-green?style=flat-square&logo=medium)](https://medium.com/@saurabh.fullstackdev)
 
 ### Hi there 👋
 
