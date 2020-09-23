@@ -1,7 +1,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/denosaurabh?style=flat-square&logo=twitter)](https://twitter.com/denosaurabh)
 [![Website](https://img.shields.io/badge/Saurabh-grey?style=flat-square)](https://portfolio-u6s9.onrender.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Saurabh-lightgrey?style=flat-square&logo=github)](https://github.com/Saurabh-FullStackDev)
-[![Medium](https://img.shields.io/badge/Medium-Saurabh-green?style=flat-square&logo=medium)](https://medium.com/@saurabh.fullstackdev)
+[![GitHub](https://img.shields.io/badge/GitHub-Saurabh-lightgrey?style=flat-square&logo=github)](https://github.com/denosaurabh)
+[![Medium](https://img.shields.io/badge/Medium-Saurabh-green?style=flat-square&logo=medium)](https://medium.com/@denosaurabh)
 
 ### Hi there 👋
 
