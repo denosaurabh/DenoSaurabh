@@ -18,6 +18,8 @@ Hello, I am **Saurabh, Full Stack Developer & Designer**, you can also call me a
 * Want to learn ML & AI
 * Minecraft - denosaurabh
 
+---
+
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=denosaurabh&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=denosaurabh&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,Objective-C,Kotlin,Swift">
