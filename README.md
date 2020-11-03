@@ -18,6 +18,42 @@ Hello, I am **Saurabh, Full Stack Developer & Designer**, you can also call me a
 * Want to learn ML & AI
 * Minecraft - denosaurabh
 
+## Technologies I use 👨‍💻
+
+<p>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img src="https://img.icons8.com/ultraviolet/48/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/redux.png"/>
+<img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+<img src="https://media.graphcms.com/M6x8DEWlSpW9fQENLco3" width="48px" height="auto" />
+<img src="https://media.graphcms.com/rjPD2ekNT0yiGP0A53Xc" width="48px" height="auto" />
+  <img src="https://media.graphcms.com/Pf1GBij8TMylhWW9mkmc" width="48px" height="auto" />
+  
+<p/>
+ 
+ <p>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://media.graphcms.com/bWtchzBESLa3CB1h2cQv" width="32px" height="auto" />
+  <img src="https://img.icons8.com/color/48/000000/stripe.png"/>
+  <img src="https://img.icons8.com/bubbles/50/000000/sendgrid.png"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+ <p/>
+ 
+  <p>
+ <img src="https://media.graphcms.com/n8T2D6qlT1yt55GcejYA" width="48px" height="auto" />
+<img src="https://media.graphcms.com/IcEYWifSleaf7GFZI17f" width="48px" height="auto" />
+  <img src="https://media.graphcms.com/UjmNzQMhRz2S1QOyS4cp" width="48px" height="auto" />
+  <img src="https://media.graphcms.com/rR5kUlXITdrowyz8qYfv" width="48px" height="auto" />
+  <img src="https://media.graphcms.com/V0BLHjjnR4mE9ymMMt7h" width="48px" height="auto" />
+ <p/>
+  
 ---
 
 <p align="center">
